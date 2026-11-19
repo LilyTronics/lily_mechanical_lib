@@ -1,0 +1,23 @@
+{
+	"Development projects": {
+		"name": "Lily Mechanical Library",
+		"icon": "folder.png",
+		"items": [
+			{
+				"name": "Project folder",
+				"icon": "folder.png",
+				"command": "C:\\Workspace\\git_projects\\lily_mechanical_lib"
+			},
+			{
+				"name": "Library",
+				"icon": "cad.png",
+				"command": "list_files:C:\\Workspace\\git_projects\\lily_mechanical_lib\\library"
+			},
+			{
+				"name": "Code",
+				"icon": "code.png",
+				"command": "C:\\Workspace\\git_projects\\lily_mechanical_lib\\lily_mechanical_lib.code-workspace"
+			}
+		]
+	}
+}
